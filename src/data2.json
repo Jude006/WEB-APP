@@ -1,0 +1,274 @@
+[
+  {
+    "courseName": "HTML5 for Beginners",
+    "courseImage": "/image/html.jpg",
+    "description": "Learn the basics of HTML5 and create your first webpage.",
+    "studentsEnrolled": 150,
+    "instructorName": "John Doe",
+    "instructorImage": "/image/dev1.avif",
+    "category": "Web Development",
+    "courseDetails": "This course covers all the essential concepts of HTML5, including semantic elements, multimedia integration, and best practices. By the end, you will have built your own web page from scratch.",
+    "syllabus": [
+      "Introduction to HTML",
+      "HTML Elements",
+      "Forms and Inputs",
+      "Multimedia in HTML",
+      "HTML5 APIs"
+    ],
+    "duration": "4 weeks"
+  },
+  {
+    "courseName": "CSS3 Essentials",
+    "courseImage": "/image/css.jpg",
+    "description": "Master CSS3 to style and layout your webpages effectively.",
+    "studentsEnrolled": 200,
+    "instructorName": "Jane Smith",
+    "instructorImage": "/image/dev1.avif",
+    "category": "Web Development",
+    "courseDetails": "This course will teach you how to style web pages using CSS3. You’ll learn about advanced selectors, animations, Flexbox, Grid, and responsive design.",
+    "syllabus": [
+      "CSS Basics",
+      "Selectors and Inheritance",
+      "Layouts with Flexbox and Grid",
+      "Responsive Design",
+      "CSS Animations"
+    ],
+    "duration": "6 weeks"
+  },
+  {
+    "courseName": "JavaScript Fundamentals",
+    "courseImage": "/image/javascript.jpg",
+    "description": "Learn the fundamentals of JavaScript programming.",
+    "studentsEnrolled": 250,
+    "instructorName": "Sophia Martinez",
+    "instructorImage": "/image/dev2.avif",
+    "category": "Web Development",
+    "courseDetails": "Dive into the world of JavaScript, the most popular programming language for web development. This course will cover variables, data types, functions, DOM manipulation, and event handling.",
+    "syllabus": [
+      "JavaScript Basics",
+      "Data Types and Variables",
+      "Functions and Scope",
+      "DOM Manipulation",
+      "Event Handling"
+    ],
+    "duration": "8 weeks"
+  },
+  {
+    "courseName": "React.js Basics",
+    "courseImage": "/image/react.png",
+    "description": "Get started with React.js and build interactive and amazing UIs.",
+    "studentsEnrolled": 180,
+    "instructorName": "Jay Tech",
+    "instructorImage": "/image/dev8.png",
+    "category": "Web Application",
+    "experience": "2 years",
+    "courseDetails": "This course introduces you to React.js, a powerful JavaScript library for building user interfaces. Learn how to create components, manage state, and handle events.",
+    "syllabus": [
+      "Introduction to React",
+      " React is a powerful JavaScript library that makes building dynamic user interfaces easier and more efficient.",
+      "JSX and Components",
+      "State and Props",
+      "Event Handling",
+      "React Router Basics"
+    ],
+    "duration": "6 weeks"
+  },
+  {
+    "courseName": "Advanced Node.js",
+    "courseImage": "/image/node.jpg",
+    "description": "Deep dive into Node.js and build scalable web applications.",
+    "studentsEnrolled": 120,
+    "instructorName": "Sophia Martinez",
+    "instructorImage": "/image/dev2.avif",
+    "category": "Web Application",
+    "courseDetails": "This advanced course covers the core concepts of Node.js. Learn about asynchronous programming, RESTful APIs, and how to build scalable applications.",
+    "syllabus": [
+      "Node.js Fundamentals",
+      "Asynchronous Programming",
+      "Building REST APIs",
+      "Error Handling",
+      "Scaling Applications"
+    ],
+    "duration": "8 weeks"
+  },
+  {
+    "courseName": "Angular for Developers",
+    "courseImage": "/image/angular.jpg",
+    "description": "Learn Angular to build powerful and dynamic web applications.",
+    "studentsEnrolled": 170,
+    "instructorName": "Gentle Jay",
+    "instructorImage": "/image/dev3.jpg",
+    "category": "Web Application",
+    "courseDetails": "This course teaches you Angular, a comprehensive framework for building dynamic web applications. You'll learn about components, services, routing, and state management.",
+    "syllabus": [
+      "Angular Basics",
+      "Components and Templates",
+      "Services and Dependency Injection",
+      "Routing and Navigation",
+      "State Management"
+    ],
+    "duration": "7 weeks"
+  },
+  {
+    "courseName": "Introduction to Photoshop",
+    "courseImage": "/image/photoshop.jpg",
+    "description": "Learn the essentials of Adobe Photoshop for image editing.",
+    "studentsEnrolled": 300,
+    "instructorName": "Gentle Jay",
+    "instructorImage": "/image/dev3.jpg",
+    "category": "Graphics Design",
+    "courseDetails": "This course will teach you the fundamentals of Adobe Photoshop, from basic photo retouching to creating complex designs. Master the tools and techniques to enhance your images.",
+    "syllabus": [
+      "Photoshop Interface",
+      "Basic Tools and Techniques",
+      "Working with Layers",
+      "Photo Retouching",
+      "Design and Composition"
+    ],
+    "duration": "5 weeks"
+  },
+  {
+    "courseName": "Illustrator for Beginners",
+    "courseImage": "/image/llustrator.avif",
+    "description": "Start designing vector graphics with Adobe Illustrator.",
+    "studentsEnrolled": 250,
+    "instructorName": "Robert Wilson",
+    "instructorImage": "/image/dev4.jpg",
+    "category": "Graphics Design",
+    "courseDetails": "Learn how to create vector graphics using Adobe Illustrator. This course covers the essential tools and techniques needed to create logos, icons, and illustrations.",
+    "syllabus": [
+      "Illustrator Basics",
+      "Drawing Tools",
+      "Working with Text",
+      "Color and Gradients",
+      "Exporting Artwork"
+    ],
+    "duration": "6 weeks"
+  },
+  {
+    "courseName": "UI/UX Design Principles",
+    "courseImage": "/image/ui ux.avif",
+    "description": "Learn the fundamentals of user interface and user experience design.",
+    "studentsEnrolled": 220,
+    "instructorName": "Robert Wilson",
+    "instructorImage": "/image/dev4.jpg",
+    "category": "Graphics Design",
+    "courseDetails": "This course introduces you to the principles of UI/UX design, focusing on user-centered design processes, wireframing, prototyping, and usability testing.",
+    "syllabus": [
+      "UI/UX Basics",
+      "User Research",
+      "Wireframing and Prototyping",
+      "Usability Testing",
+      "Design Systems"
+    ],
+    "duration": "7 weeks"
+  },
+  {
+    "courseName": "Data Science with Python",
+    "courseImage": "/image/data science.avif",
+    "description": "Explore data science concepts using Python programming.",
+    "studentsEnrolled": 180,
+    "instructorName": "Jay Tech",
+    "instructorImage": "/image/dev8.png",
+    "category": "Data Science",
+    "courseDetails": "This course covers the essentials of data science using Python. Learn about data wrangling, analysis, visualization, and machine learning.",
+    "syllabus": [
+      "Python Basics",
+      "Data Wrangling with Pandas",
+      "Data Visualization with Matplotlib",
+      "Exploratory Data Analysis",
+      "Introduction to Machine Learning"
+    ],
+    "duration": "8 weeks"
+  },
+  {
+    "courseName": "Machine Learning Basics",
+    "courseImage": "/image/machine learning.avif",
+    "description": "Introduction to machine learning concepts and algorithms.",
+    "studentsEnrolled": 140,
+    "instructorName": "Amanda Brown",
+    "instructorImage": "/image/dev5.jpg",
+    "category": "Data Science",
+    "courseDetails": "This course introduces the core concepts of machine learning, including supervised and unsupervised learning, and covers popular algorithms like linear regression, decision trees, and clustering.",
+    "syllabus": [
+      "Introduction to Machine Learning",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Model Evaluation",
+      "Real-world Applications"
+    ],
+    "duration": "7 weeks"
+  },
+  {
+    "courseName": "Data Visualization with Tableau",
+    "courseImage": "/image/Data Visualization with Tableau.jpg",
+    "description": "Create interactive data visualizations with Tableau.",
+    "studentsEnrolled": 160,
+    "instructorName": "Amanda Brown",
+    "instructorImage": "/image/dev5.jpg",
+    "category": "Data Science",
+    "courseDetails": "Learn how to create interactive data visualizations and dashboards using Tableau. This course covers data preparation, visual analytics, and storytelling with data.",
+    "syllabus": [
+      "Introduction to Tableau",
+      "Connecting to Data",
+      "Creating Visualizations",
+      "Building Dashboards",
+      "Publishing and Sharing"
+    ],
+    "duration": "6 weeks"
+  },
+  {
+    "courseName": "Video Editing with Premiere Pro",
+    "courseImage": "/image/premier pro.jpg",
+    "description": "Learn video editing with Adobe Premiere Pro.",
+    "studentsEnrolled": 190,
+    "instructorName": "Victor Wright",
+    "instructorImage": "/image/dev6.jpg",
+    "category": "Video Editing",
+    "courseDetails": "This course will teach you the fundamentals of video editing using Adobe Premiere Pro. You'll learn how to cut, edit, and enhance video projects efficiently.",
+    "syllabus": [
+      "Introduction to Premiere Pro",
+      "Editing Basics",
+      "Transitions and Effects",
+      "Audio Editing",
+      "Exporting Projects"
+    ],
+    "duration": "5 weeks"
+  },
+  {
+    "courseName": "Advanced After Effects",
+    "courseImage": "/image/advanced.jpg",
+    "description": "Master motion graphics and visual effects with After Effects.",
+    "studentsEnrolled": 130,
+    "instructorName": "Victor Wright",
+    "instructorImage": "/image/dev6.jpg",
+    "category": "Video Editing",
+    "courseDetails": "This advanced course covers motion graphics and visual effects using Adobe After Effects. You'll learn about keyframes, animation techniques, and compositing.",
+    "syllabus": [
+      "After Effects Interface",
+      "Working with Keyframes",
+      "Advanced Animation Techniques",
+      "Compositing Basics",
+      "Rendering and Exporting"
+    ],
+    "duration": "6 weeks"
+  },
+  {
+    "courseName": "Final Cut Pro X Basics",
+    "courseImage": "/image/Final.jpg",
+    "description": "Introduction to video editing using Final Cut Pro X.",
+    "studentsEnrolled": 170,
+    "instructorName": "Orifa Jude",
+    "instructorImage": "/image/dev7.jpg",
+    "category": "Video Editing",
+    "courseDetails": "This course covers the basics of video editing using Final Cut Pro X. Learn how to create professional-quality videos with Apple's powerful editing software.",
+    "syllabus": [
+      "Getting Started with Final Cut Pro X",
+      "Editing Basics",
+      "Transitions and Effects",
+      "Color Correction",
+      "Exporting Videos"
+    ],
+    "duration": "5 weeks"
+  }
+]

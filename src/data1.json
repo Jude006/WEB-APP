@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "image": "/image/web design.avif",
+      "title": "Web Design",
+      "description": "Master HTML, CSS, and responsive design to create visually stunning websites.",
+      "totalCoursesAvailable": 42
+    },
+    {
+      "id": 2,
+      "image": "/image/IT dev.jpg",
+      "title": "IT Development",
+      "description": "Dive into IT development with a focus on software engineering and systems.",
+      "totalCoursesAvailable": 18
+    },
+    {
+      "id": 3,
+      "image": "/image/graphics.jpg",
+      "title": "Graphics Design",
+      "description": "Learn design principles and tools to craft compelling graphics and visuals at Jweblearn.",
+      "totalCoursesAvailable": 20
+    },
+    {
+      "id": 4,
+      "image": "/image/web app.jpg",
+      "title": "Web Application",
+      "description": "Build robust web applications using modern frameworks and best practices.",
+      "totalCoursesAvailable": 14
+    },
+    {
+      "id": 5,
+      "image": "/image/video.jpg",
+      "title": "Video Editing",
+      "description": "Edit and produce high-quality videos with industry-standard software.",
+      "totalCoursesAvailable": 7
+    },
+    {
+      "id": 6,
+      "image": "/image/data.jpg",
+      "title": "Data Science",
+      "description": "Analyze complex data sets to derive meaningful insights and amazing decisions .",
+      "totalCoursesAvailable": 9
+    }
+  ]
+  
